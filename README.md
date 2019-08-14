@@ -1,30 +1,37 @@
-Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+## Welcome to GitHub Pages
 
+You can use the [editor on GitHub](https://github.com/Jasonli08/Jasonli08.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+### Markdown
 
-(* = not included)
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-AJ
-aj@lkn.io | @ajlkn
+```markdown
+Syntax highlighted code block
 
+# Header 1
+## Header 2
+### Header 3
 
-Credits:
+- Bulleted
+- List
 
-	Demo Images:
-		Unsplash (unsplash.com)
+1. Numbered
+2. List
 
-	Icons:
-		Font Awesome (fontawesome.io)
+**Bold** and _Italic_ and `Code` text
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jasonli08/Jasonli08.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
